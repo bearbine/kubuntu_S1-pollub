@@ -1,0 +1,7 @@
+2025-10-06 08:13:45 INFO  User 'anna' logged in 
+2025-10-06 08:14:02 ERROR Failed to open file /etc/passwd 
+2025-10-06 08:15:17 INFO  User 'antoni' logged out 
+2025-10-06 08:16:01 WARN  Disk usage above 90% 
+2025-10-06 08:17:55 ERROR Network timeout while connecting to 
+10.0.0.5 
+2025-10-06 08:20:11 INFO  User 'jan' logged in

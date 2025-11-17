@@ -1,0 +1,4 @@
+2025-10-06 08:14:02 ERROR Failed to open file /etc/passwd 
+2025-10-06 08:16:01 WARN  Disk usage above 90% 
+2025-10-06 08:17:55 ERROR Network timeout while connecting to 
+10.0.0.5 
